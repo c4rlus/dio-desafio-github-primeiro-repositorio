@@ -1,0 +1,16 @@
+#Comandos Básicos Para o Gitbash
+
+Os comandos usados no gitbash são os mesmos comandos usados no Linux.
+
+#Comnados Git:
+
+Para fazer uma cópia de um arquivo que ta no github - cópia o link do arquivo la no github,
+abre o git e o local para onde vai ser feita a cópia e da o comando "git clone + link".
+
+Para verificar o estatus dos arquivos "git status".
+
+Adicionar pasta ou algum arquivo para o controle de versão "git add (-A . *)".
+
+Para criar um commit "git commit -m + descrição".
+
+Para enviar os commit para a nuvem "git push origin main".
