@@ -25,4 +25,6 @@ Adicionar pasta ou algum arquivo para o controle de versão "git add (-A . *)".
 
 Para criar um commit "git commit -m + descrição".
 
-Para enviar os commit para a nuvem "git push origin main"..
+Para enviar os commit para a nuvem "git push origin main".
+
+Para puxar o que ta no github para a máquina local "git pull origin master".
