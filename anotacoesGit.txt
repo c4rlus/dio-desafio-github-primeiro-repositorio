@@ -4,6 +4,18 @@ Os comandos usados no gitbash são os mesmos comandos usados no Linux.
 
 #Comnados Git:
 
+Para inicializar o git no repositório usa o "git init".
+
+Configuração para username e email "git config --global user.email" e 
+"git config --global user.name".
+
+Para apontar um repositório criano no github para o repositório local,
+"git remote add origin + link".
+
+Para verificar a lista de repositórios remotos cadastrados "git remote -v".
+
+Para empurrar o repositório local para o github "git push origin master".
+
 Para fazer uma cópia de um arquivo que ta no github - cópia o link do arquivo la no github,
 abre o git e o local para onde vai ser feita a cópia e da o comando "git clone + link".
 
